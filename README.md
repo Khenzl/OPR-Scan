@@ -1,4 +1,4 @@
-# 🛰️ OPRScan - Open Penetration Recon Scanner
+# 🛰️ OPR-Scan - Open Penetration Recon Scanner
 
 OPRScan adalah tools scanning informasi berbasis Python yang dirancang untuk membantu aktivitas pengintaian dan pengumpulan informasi (reconnaissance) dari sebuah website atau IP. Cocok digunakan oleh penetration tester, cybersecurity enthusiast, dan developer yang ingin memahami peta jaringan suatu target secara mendalam.
 
