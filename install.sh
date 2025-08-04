@@ -57,4 +57,4 @@ fi
 # Jadikan OPRScan bisa dieksekusi
 chmod +x OPRScan
 
-echo -e "${G}✅ Instalasi selesai. Jalankan dengan:${NC} ${Y}php OPRScan${NC}"
+echo -e "${G}✅ Instalasi selesai. Jalankan dengan:${NC} ${Y}php oprscan.php${NC}"
